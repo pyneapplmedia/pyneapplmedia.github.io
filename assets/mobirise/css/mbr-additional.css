@@ -132,7 +132,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #a8f8af !important;
+  background-color: #8fd1e7 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -148,23 +148,23 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #a8f8af !important;
-  border-color: #a8f8af !important;
-  color: #0c9518 !important;
+  background-color: #8fd1e7 !important;
+  border-color: #8fd1e7 !important;
+  color: #ffffff !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #0c9518 !important;
-  background-color: #61f26e !important;
-  border-color: #61f26e !important;
+  color: #ffffff !important;
+  background-color: #50b7d9 !important;
+  border-color: #50b7d9 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #0c9518 !important;
-  background-color: #61f26e !important;
-  border-color: #61f26e !important;
+  color: #ffffff !important;
+  background-color: #50b7d9 !important;
+  border-color: #50b7d9 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -312,22 +312,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #4af058;
-  color: #4af058;
+  border-color: #3bafd5;
+  color: #3bafd5;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
-  color: #0c9518;
-  background-color: #a8f8af;
-  border-color: #a8f8af;
+  color: #ffffff;
+  background-color: #8fd1e7;
+  border-color: #8fd1e7;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #0c9518 !important;
-  background-color: #a8f8af !important;
-  border-color: #a8f8af !important;
+  color: #ffffff !important;
+  background-color: #8fd1e7 !important;
+  border-color: #8fd1e7 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -464,7 +464,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #a8f8af !important;
+  color: #8fd1e7 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -489,7 +489,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #4af058 !important;
+  color: #3bafd5 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -547,9 +547,9 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #a8f8af;
-  border-color: #a8f8af;
-  color: #0ead1c;
+  background-color: #8fd1e7;
+  border-color: #8fd1e7;
+  color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
@@ -565,7 +565,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #a8f8af;
+  color: #8fd1e7;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -689,7 +689,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #a8f8af;
+  border-color: #8fd1e7;
   border-width: 3px;
 }
 ul,
@@ -778,7 +778,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #a8f8af;
+  border-color: #8fd1e7;
   color: #232323;
   cursor: pointer;
 }
@@ -789,7 +789,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #a8f8af;
+  background: #8fd1e7;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -797,11 +797,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #a8f8af;
+  background: #8fd1e7;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #a8f8af;
+  color: #8fd1e7;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1773,9 +1773,6 @@ body {
 .cid-rmlp7zejej .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r4MExUp8WF {
-  background-image: url("../../../assets/images/apple-256261-960-720-960x635.jpg");
-}
 .cid-r4MExUp8WF H1 {
   color: #50f05e;
   text-align: left;
@@ -1810,6 +1807,7 @@ body {
 .cid-rmpBSxtM1H {
   padding-top: 45px;
   padding-bottom: 0px;
+  background-image: url("../../../assets/images/apple-256261-960-720-960x635.jpg");
 }
 .cid-rmpBSxtM1H H3 {
   text-align: right;
@@ -1970,9 +1968,9 @@ body {
 .cid-rmlKISmwnv .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-rmplmOJv0P {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rmpTu72Zdn {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-rmlEfQzgqq .navbar {
@@ -2373,7 +2371,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rmpLJEII3I {
-  background: #ffffff;
+  background: #f9f295;
   padding-top: 105px;
   padding-bottom: 15px;
 }
@@ -2396,18 +2394,15 @@ body {
 .cid-rg88VFCEpw {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #f9f295;
 }
 .cid-rg88VFCEpw .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rg88IxJgg9 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rmpTr4ahpP {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
-}
-.cid-rg88IxJgg9 .media-container-row .mbr-text I {
-  color: #0f7699;
 }
 .cid-rmlNwA8hXa {
   padding-top: 105px;
@@ -2432,6 +2427,27 @@ body {
   .cid-rmlMitpGZ1 .video-block {
     width: 100% !important;
   }
+}
+.cid-rmpNa5nUMD {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #a8f8af;
+}
+@media (min-width: 992px) {
+  .cid-rmpNa5nUMD .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rmpNa5nUMD .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rmpNa5nUMD .mbr-text {
+  color: #befac3;
+}
+.cid-rmpNa5nUMD .mbr-text B {
+  color: #befac3;
 }
 .cid-rmlp7zejej .navbar {
   padding: .5rem 0;
@@ -2830,16 +2846,8 @@ body {
 .cid-rmlp7zejej .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rmlNKzqhWA {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #a8f8af;
-}
-.cid-rmlNKzqhWA .mbr-section-subtitle {
-  color: #e2fce4;
-}
-.cid-rmlOMNsjgP {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rmpTwwRg3b {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
