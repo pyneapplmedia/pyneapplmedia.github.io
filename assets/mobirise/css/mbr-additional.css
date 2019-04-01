@@ -2372,10 +2372,31 @@ body {
 .cid-rmlEfQzgqq .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rg88VFCEpw {
+.cid-rmpLJEII3I {
+  background: #ffffff;
   padding-top: 120px;
+  padding-bottom: 0px;
+}
+.cid-rmpLJEII3I .image-block {
+  margin: auto;
+}
+.cid-rmpLJEII3I figcaption {
+  position: relative;
+}
+.cid-rmpLJEII3I figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmpLJEII3I .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rg88VFCEpw {
+  padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #edffef;
+  background-color: #ffffff;
 }
 .cid-rg88VFCEpw .mbr-section-subtitle {
   color: #767676;
