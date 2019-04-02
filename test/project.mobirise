@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pyneappl Media",
-    "currentPage": "studio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/appl-final-gradient-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
