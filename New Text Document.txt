@@ -1,0 +1,8 @@
+<div style="text-align: center; margin: 0 auto; font: normal 13px arial, sans-serif;">
+<h1>Ping</h1>
+    This utility is password protected.<br>
+    
+<form name="login" style="margin: 5px 0px 0px 0px;">
+<input type="text" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 130px;"><br>
+<input type="button" value="Access Ping Tool" style="width: 134px; margin: 4px auto 4px auto;" onclick="javascript:TheLogin(this.form)">
+</form>
